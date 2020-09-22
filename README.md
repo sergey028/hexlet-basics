@@ -1,2 +1,1 @@
-# hexlet-basics
-homework
+#Hi, my first
